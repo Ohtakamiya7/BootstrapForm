@@ -1,7 +1,7 @@
 # Bootstrap Booking Form
 This is a booking form I created using html5, css, javascript, bootstrap 3, font awesome, and toastr. I have created panels for User, Contact, Schedule, and Other. With reset and submit buttons as well at the end. 
 
-**What each panel includes:**
+**What Each Panel Includes:**
 The **user** panel includes a text input for a username and first and last name. 
 The **contact** panel includes a phone, fax, and email textboxes with prepended font awesome icons. 
 The **schedule** panel includes a dropdown for number of adults (1 - 5 adults), a date picker for check-in, a date picker for check-out, a readonly days textbox, and a readonly cost textbox. The days and cost textboxes will automatically update whenever a new check-in and check-out date are selected and the check-out date is after the check-in date. 
