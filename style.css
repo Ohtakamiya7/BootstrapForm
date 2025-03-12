@@ -1,0 +1,17 @@
+.header {
+  color: red !important;
+  display: inline-block !important;
+}
+.bottom-right{
+  position: fixed; 
+  bottom: 0; 
+  right:0; 
+}
+
+.big-button{
+  width: 200px;
+}
+
+
+
+
